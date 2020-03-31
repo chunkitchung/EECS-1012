@@ -1,0 +1,28 @@
+.content {
+    border: 2px solid green;
+  }
+.eatingBorder{
+  border: 2px solid red;
+}
+.goodThings{
+  border: 2px solid orange;
+}
+.dosa{
+  border: 2px solid blue;
+}
+.pide{
+  border: 2px solid blue;
+}
+.falafel{
+  border: 2px solid blue;
+}
+.spicyPot{
+  border: 2px solid blue;
+}
+.black1{
+  border: 1px solid black;
+  padding: 0px;
+}
+.author{
+  border: 2px solid yellow;
+}
